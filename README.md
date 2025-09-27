@@ -6,7 +6,7 @@
   <br><br>
   
 [![My Skills](https://skillicons.dev/icons?i=discordjs,py,java,mongodb,maven,vscode)](https://skillicons.dev)
-  <br><br>
+  <br>
   
   ![](https://komarev.com/ghpvc/?username=southctrl&style=plastic)
 </div>
