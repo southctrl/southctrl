@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=southctrl&layout=compact&theme=dark&hide_border=false&border_radius=5" height="180" alt="language stats" />
   <br><br>
   
-[![My Skills](https://skillicons.dev/icons?i=discordjs,py,java,mongodb,maven,vscode&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discordjs,py,java,mongodb,maven,vscode)](https://skillicons.dev)
   <br><br>
   
   ![](https://komarev.com/ghpvc/?username=southctrl&style=plastic)
